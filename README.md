@@ -161,6 +161,3 @@ pdf-qa-tool/
 2. **DeepSeek API**：`api.deepseek.com` 国内直连，无需代理
 3. 如需更换其他 HuggingFace 镜像，修改 `HF_ENDPOINT` 即可
 
-## 📄 开源协议
-
-MIT
